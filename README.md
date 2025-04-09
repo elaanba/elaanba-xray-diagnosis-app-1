@@ -17,7 +17,7 @@ This Flask web app allows users to upload chest X-ray images and detect medical 
 ## 🚀 How to Run Locally
 
 ### 1. Clone this Repository
-```bash
+
 git clone https://github.com/elaanba/xray-diagnosis-app-1.git
 cd xray-diagnosis-app
 
