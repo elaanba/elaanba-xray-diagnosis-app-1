@@ -41,7 +41,8 @@ python app.py
 
 
 
-This app uses classification models that detect positioning errors for:
+
+## This app uses classification models that detect positioning errors for:
 
 ETT: Endotracheal Tube
 
