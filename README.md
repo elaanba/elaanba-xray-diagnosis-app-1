@@ -1,4 +1,4 @@
-
+![App Screenshot](screenshot.png)
 # 🩻 Chest X-ray Tube & Catheter Positioning Error Detection
 
 This Flask web app allows users to upload chest X-ray images and detect medical tube and catheter mispositioning using a pre-trained deep learning model in TensorFlow Lite format.
