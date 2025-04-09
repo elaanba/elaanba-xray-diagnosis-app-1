@@ -22,18 +22,18 @@ git clone https://github.com/elaanba/xray-diagnosis-app-1.git
 cd xray-diagnosis-app
 
 
-Set Up a Virtual Environment
+### 2. Set Up a Virtual Environment
 
 python -m venv venv
 source venv/bin/activate    # On Windows: venv\Scripts\activate
 
-Install Dependencies
+### 3. Install Dependencies
 
 
 pip install -r requirements.txt
 
 
-Run the Flask App
+### 4. Run the Flask App
 
 python app.py
 
